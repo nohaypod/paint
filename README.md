@@ -1,10 +1,5 @@
 # [Paintee Web App](https://pedrovelasquez9.github.io/paintee/)
 
-<div style="width:100%;display:flex;flex-direction:column;align-items:center">
-    <img src="./docs/assets/img/Logo-circle.webp" with="150px" height="150px" />
-    <h1>Programación en español</h1>
-</div>
-
 ## Preview
 
 [Launch app](https://pedrovelasquez9.github.io/paintee/)
