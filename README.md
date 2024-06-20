@@ -9,7 +9,6 @@
 
 [Launch app](https://pedrovelasquez9.github.io/paintee/)
 
-![preview](./docs/assets/img/paintee-preview.png)
 
 ## About
 
